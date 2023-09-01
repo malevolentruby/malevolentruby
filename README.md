@@ -1,5 +1,3 @@
-### Hi there 👋
-## I'm Finn!
-- second year Computing Security, B.S. student at RIT
-- he/him
-- currently learning C, x86 ASM and networking
+2nd-year cybersecurity undergrad @ RIT
+interested in software security, networking & web dev opportunities
+he/him/his
